@@ -2,7 +2,6 @@ body{
     margin: 0px;
 }
 .navbar {
-    width : 100%;
     display: flex;
     position: sticky; 
     top: 0px;
@@ -23,7 +22,7 @@ body{
     background-size: cover;
 }
 .color {
-    color: #ffab01;
+    color: rgb(247,147,26);
 }
 .mgLeft30px{
     margin-left: 30px;
@@ -63,6 +62,6 @@ body{
    bottom: 0px;
    width: 100%;
    background-color: rgba(0,0,0,0.9);
-   color: #ffab01;
+   color: rgb(247,147,26);
    text-align: center;
 }
