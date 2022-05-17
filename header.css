@@ -40,13 +40,12 @@ body{
     line-height: 25px;
     font-weight: bold;
     font-size: 30px;
-    margin-bottom: 10px;
 
 }
 .imageRessource{
     justify-content: center;
     text-align: center;
-    height: 100px;
+    height: 50px;
 }
 .descriptionRessource{
     justify-content: left;
@@ -64,4 +63,7 @@ body{
    background-color: rgba(0,0,0,0.9);
    color: rgb(247,147,26);
    text-align: center;
+    margin-top: 10px;
+    margin-bottom : 10px;
+    font-family: italic;
 }
