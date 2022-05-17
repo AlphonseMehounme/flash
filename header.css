@@ -47,6 +47,12 @@ body{
     text-align: center;
     height: 100px;
 }
+.imageRessourceBig{
+    justify-content: center;
+    text-align: center;
+    height: 200px;
+}
+
 .descriptionRessource{
     justify-content: left;
     text-align: left;
