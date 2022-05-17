@@ -2,8 +2,8 @@ body{
     margin: 0px;
 }
 .navbar {
+    width : 100%;
     display: flex;
-    overflow: hidden;
     position: fixed;
     top: 0px;
     cursor: pointer;
@@ -23,7 +23,7 @@ body{
     background-size: cover;
 }
 .color {
-    color: orange;
+    color: #ffab01;
 }
 .mgLeft30px{
     margin-left: 30px;
@@ -59,10 +59,10 @@ body{
 }
 .footer {
    position: fixed;
-   left: 0;
-   bottom: 0;
+   left: 0px;
+   bottom: 0px;
    width: 100%;
    background-color: rgba(0,0,0,0.9);
-   color: orange;
+   color: #ffab01;
    text-align: center;
 }
