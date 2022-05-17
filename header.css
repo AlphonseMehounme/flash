@@ -23,7 +23,7 @@ body{
     background-size: cover;
 }
 .color {
-    color: white;
+    color: orange;
 }
 .mgLeft30px{
     margin-left: 30px;
@@ -57,12 +57,12 @@ body{
     line-height: 25px;
 
 }
-footer {
+.footer {
    position: fixed;
    left: 0;
    bottom: 0;
    width: 100%;
-   background-color: red;
-   color: white;
+   background-color: rgba(0,0,0,0.9);
+   color: orange;
    text-align: center;
 }
